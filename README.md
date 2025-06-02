@@ -4,7 +4,7 @@
 
 Data set taken from: wells_by_basin.csv
 
-Visualizations:
+## Visualizations
 
 1. Summary statistics on key characteristics of Arizona Wells on 3 Basins (Douglas INA, Douglas, Willcox) in drought-stricken Southeast Arizona
 <img width="853" alt="table1" src="https://github.com/user-attachments/assets/2ad713e5-8056-4008-a4a5-d6ea128ff629" />
