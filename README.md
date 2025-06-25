@@ -1,8 +1,13 @@
 # Data Analysis and Visualization
 
-### Wells By Basin
+## Wells By Basin
 
-Data set taken from: wells_by_basin.csv
+### References
+- To view dataset: [wells_by_basin.csv](https://github.com/kai-shuen-neo/da-WellsByBasin/blob/main/wells_by_basin.csv)
+- TO view r code: [analysis_WellsByBasin.R](https://github.com/kai-shuen-neo/da-WellsByBasin/blob/main/analysis_WellsByBasin.R)
+- To view r markdown code: [Final Portfolio_Kai Shuen Neo.Rmd](https://github.com/kai-shuen-neo/da-WellsByBasin/blob/main/Final%20Portfolio_Kai%20Shuen%20Neo.Rmd)
+- To view report: [Final-Portfolio_Kai-Shuen-Neo.pdf](https://github.com/kai-shuen-neo/da-WellsByBasin/blob/main/Final-Portfolio_Kai-Shuen-Neo.pdf)
+
 
 ### Visualizations
 
